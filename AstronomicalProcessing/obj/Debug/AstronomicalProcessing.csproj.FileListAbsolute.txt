@@ -1,0 +1,10 @@
+E:\CSharpProject\AstronomicalProcessing\bin\Debug\AstronomicalProcessing.exe.config
+E:\CSharpProject\AstronomicalProcessing\bin\Debug\AstronomicalProcessing.exe
+E:\CSharpProject\AstronomicalProcessing\bin\Debug\AstronomicalProcessing.pdb
+E:\CSharpProject\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.csprojAssemblyReference.cache
+E:\CSharpProject\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.AstronomicalProcessingForm.resources
+E:\CSharpProject\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.Properties.Resources.resources
+E:\CSharpProject\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.csproj.GenerateResource.cache
+E:\CSharpProject\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.csproj.CoreCompileInputs.cache
+E:\CSharpProject\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.exe
+E:\CSharpProject\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.pdb
