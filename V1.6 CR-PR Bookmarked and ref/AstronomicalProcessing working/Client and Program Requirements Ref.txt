@@ -1,0 +1,18 @@
+Client Requirements
+1	All data is stored as integers in an array.
+2	The client can use a text box input to search the array.
+3	There are buttons that can sort and search the data.
+4	There is an input field (text box) so data can be deleted, added and edited.
+5	The name of the application should be Astronomical Processing.
+
+Program Functionality
+1	The array is of type integer.
+2	The array has 24 elements to reflect the number of hours per day.
+3	The sort method must be coded using the Bubble Sort algorithm.
+4	The search method must be coded using the Binary Search algorithm.
+5	A single text box is provided for the search input.
+6	The program must generate an error message if the text box is empty.
+7	The program must generate an error message if the search is not successful.
+8	The program must generate a message if the search is successful.
+9	The program must be able to add, edit and delete data values.
+10	The array is filled with random integers to simulate the data stream (numbers between 10 and 99).
