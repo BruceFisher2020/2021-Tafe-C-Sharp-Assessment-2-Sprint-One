@@ -1,1 +1,2 @@
-# C-Sharp-AT2
+# C# Astronomical Processing
+Tafe C# Assessment 2
